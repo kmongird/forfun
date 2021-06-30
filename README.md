@@ -1,0 +1,2 @@
+# forfun
+Educational purposes
